@@ -1,0 +1,35 @@
+{
+  "name": "winston-sumologic",
+  "version": "0.0.0",
+  "description": "Winston Transport for Sumo Logic",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gwing33/winston-sumologic.git"
+  },
+  "keywords": [
+    "sumologic",
+    "winston",
+    "transport",
+    "logging",
+    "logs",
+    "log aggregation"
+  ],
+  "author": "Gerald Leenerts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gwing33/winston-sumologic/issues"
+  },
+  "peerDependencies": {
+    "winston": ">=0.7"
+  },
+  "dependencies": {
+    "winston": "^0.8.3"
+  },
+  "devDependencies": {
+    "jest-cli": "^0.1.18"
+  }
+}
