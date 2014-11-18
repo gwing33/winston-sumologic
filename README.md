@@ -1,5 +1,7 @@
 # Winston SumoLogic Transport
 
+[![Build Status](https://travis-ci.org/gwing33/winston-sumologic.svg)](https://travis-ci.org/gwing33/winston-sumologic)
+
 Transport for Winston to a "preferred" SumoLogic log format. See [here for details.](https://service.sumologic.com/help/Default.htm#JSON_Operator.htm%3FTocPath%3DSearch%7COperators%7C_____16)
 
 Most of the code was pulled from the default [File.js](https://github.com/flatiron/winston/blob/master/lib%2Fwinston%2Ftransports%2Ffile.js) code, just changed the way it's formatted.
