@@ -1,3 +1,5 @@
+### DEPRICATED: I am no longer maintaining this, and it could be faulty.
+
 # Winston SumoLogic Transport
 
 [![Build Status](https://travis-ci.org/gwing33/winston-sumologic.svg)](https://travis-ci.org/gwing33/winston-sumologic)
